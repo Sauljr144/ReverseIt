@@ -1,0 +1,15 @@
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.exe
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.deps.json
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.runtimeconfig.json
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.dll
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\bin\Debug\net6.0\ReverseIt.pdb
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.csproj.AssemblyReference.cache
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.AssemblyInfoInputs.cache
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.AssemblyInfo.cs
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.csproj.CoreCompileInputs.cache
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.dll
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\refint\ReverseIt.dll
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.pdb
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ReverseIt.genruntimeconfig.cache
+C:\Users\sauls\Documents\CS Academy\Level1\ReverseIt\ReverseIt\obj\Debug\net6.0\ref\ReverseIt.dll
